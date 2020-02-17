@@ -99,7 +99,7 @@ export default class TestScreen extends React.Component {
                                 {
                                     opt: 'A',
                                     id: 1, 
-                                    text:"independent and strong willed.", 
+                                    text:"they were passionately in love", 
                                     check: false, 
         
                                 },
@@ -136,28 +136,28 @@ export default class TestScreen extends React.Component {
                                 {
                                     opt: 'A',
                                     id: 1, 
-                                    text:'Lines 9-10 (“Miss...spite.”)', 
+                                    text:'Lines 9 (“Miss...spite.”)', 
                                     check: false, 
         
                                 },
                                 {
                                     opt: 'B',
                                     id:2, 
-                                    text:"Lines 22-26 (“But the...secret.”)",  
+                                    text:"Lines 16-19 (“But the...secret.”)",  
                                     check: false, 
         
                                 },
                                 {
                                     opt: 'C',
                                     id:3, 
-                                    text: "Lines 26-30 (“However...Quay.”)",  
+                                    text: "Lines 19-22 (“However...Quay.”)",  
                                     check: true, 
         
                                 },
                                 {
                                     opt: 'D',
                                     id:4, 
-                                    text: "Lines 33-37 (“After the...away.”)",  
+                                    text: "Lines 24-27 (“After the...away.”)",  
                                     check: false, 
         
                                 } 
@@ -169,7 +169,7 @@ export default class TestScreen extends React.Component {
                         {
                             id: 4,
                             question: 
-                            "4. In line 18, the word “ivory” most nearly means",  
+                            "4. In line 14, the word “ivory” most nearly means",  
                             choices: [
                                 {
                                     opt: 'A',
@@ -207,7 +207,7 @@ export default class TestScreen extends React.Component {
                         {
                             id: 5,
                             question: 
-                            "5. Which choice best describes the main idea of the third paragraph (lines 31-56)?",  
+                            "5. Which choice best describes the main idea of the third paragraph (lines 23-40)?",  
                             choices: [
                                 {
                                     opt: 'A',
@@ -233,7 +233,7 @@ export default class TestScreen extends React.Component {
                                 {
                                     opt: 'D',
                                     id:4, 
-                                    text: "An event occurs that affects allff characters within the story.",  
+                                    text: "An event occurs that affects all characters within the story.",  
                                     check: false, 
         
                                 } 
@@ -245,26 +245,26 @@ export default class TestScreen extends React.Component {
                         {
                             id: 6,
                             question: 
-                            "6. The narrator mentions the Irish Revival in line 60 in order to convey",  
+                            "6. The narrator mentions the Irish Revival in line 43 in order to convey",  
                             choices: [
                                 {
                                     opt: 'A',
                                     id: 1, 
-                                    text:'A)	Mrs. Kearney’s attempts to manipulate her family.', 
+                                    text:'Mrs. Kearney’s attempts to manipulate her family.', 
                                     check: false, 
         
                                 },
                                 {
                                     opt: 'B',
                                     id:2, 
-                                    text:"B)	the national pride that the Kearney’s have.",  
+                                    text:"the national pride that the Kearney’s have.",  
                                     check: true, 
         
                                 },
                                 {
                                     opt: 'C',
                                     id:3, 
-                                    text: "C)	why Kathleen was sent away to study.",  
+                                    text: "why Kathleen was sent away to study.",  
                                     check: false, 
         
                                 },
@@ -325,21 +325,21 @@ export default class TestScreen extends React.Component {
                                 {
                                     opt: 'A',
                                     id: 1, 
-                                    text:'Lines 40-41 (“But she...him.”)', 
+                                    text:'Lines 29-30 (“But she...him.”)', 
                                     check: false, 
         
                                 },
                                 {
                                     opt: 'B',
                                     id:2, 
-                                    text:"Lines 54-59 (“Every...Greystones.”)",  
+                                    text:"Lines 39-42 (“Every...Greystones.”)",  
                                     check: true, 
         
                                 },
                                 {
                                     opt: 'C',
                                     id:3, 
-                                    text: "Lines 60- 63(“When the...house.”)",  
+                                    text: "Lines 43- 45(“When the...house.”)",  
                                     check: false, 
         
                                 },
@@ -456,31 +456,31 @@ export default class TestScreen extends React.Component {
                                 }, 
                                 {
                                     id:5, 
-                                    content: ' This capacity suggests that humans are opportunistic social learners from a very young age, capitalizing on even fleeting chances to learn fine grained details of action techniques intentionally performed by other individuals on novel artefacts. Perhaps most surprisingly, even the adult participants were subject to this effect despite the causal irrelevance of the actions witnessed being so visible.', 
+                                    content: 'This capacity suggests that humans are opportunistic social learners from a very young age, capitalizing on even fleeting chances to learn fine grained details of action techniques intentionally performed by other individuals on novel artefacts. Perhaps most surprisingly, even the adult participants were subject to this effect despite the causal irrelevance of the actions witnessed being so visible.', 
                                 }, 
                                 {
                                     id:5, 
-                                    content: ' The principal question raised by our results is why such a minimal learning context should lead both adults and children alike to abandon their own causal knowledge relevant to the task (displayed in the control condition) and instead adopt the inefficient technique used by the person they had just observed. One important influence which  may result in the reproduction of causally irrelevant actions in experimental studies of over-imitation is the social influence of the model.', 
+                                    content: 'The principal question raised by our results is why such a minimal learning context should lead both adults and children alike to abandon their own causal knowledge relevant to the task (displayed in the control condition) and instead adopt the inefficient technique used by the person they had just observed. One important influence which  may result in the reproduction of causally irrelevant actions in experimental studies of over-imitation is the social influence of the model.', 
                                 }, 
                                 {
                                     id:6, 
-                                    content: ' Of course participants are not invited to imitate, but such experimental contexts likely contain a number of social influences which may impact on the likelihood that the observers will over-imitate. First, these influences may elicit a motivation on the part of the observer to affiliate with the model by acting like them; second, they may place social pressure on the observer to conform to performing the task in the same way as the model; or third, they may provide an opportunity for the observer to engage in a shared experience with the model.', 
+                                    content: 'Of course participants are not invited to imitate, but such experimental contexts likely contain a number of social influences which may impact on the likelihood that the observers will over-imitate. First, these influences may elicit a motivation on the part of the observer to affiliate with the model by acting like them; second, they may place social pressure on the observer to conform to performing the task in the same way as the model; or third, they may provide an opportunity for the observer to engage in a shared experience with the model.', 
                                 }, 
                                 {
                                     id:7, 
-                                    content: ' Of course participants are not invited to imitate, but such experimental contexts likely contain a number of social influences which may impact on the likelihood that the observers will over-imitate. First, these influences may elicit a motivation on the part of the observer to affiliate with the model by acting like them; second, they may place social pressure on the observer to conform to performing the task in the same way as the model; or third, they may provide an opportunity for the observer to engage in a shared experience with the model.', 
+                                    content: 'In our naturalistic context all such potential social demands were essentially absent, suggesting that such social influences were unlikely to be the motivation. The high fidelity copying nevertheless witnessed across our sample suggests that other age independent motivations may be responsible for eliciting over-imitation in such a context.', 
                                 }, 
                             ],                            
                             questions: [
                                 {
                                     id: 11,
                                     question: 
-                                    "11. The authors most likely notes that the participants in the study were “unaware that they were taking part in an experiment” (lines 7-8) to highlight that",  
+                                    "11. The authors most likely notes that the participants in the study were “unaware that they were taking part in an experiment” (lines 5-6) to highlight that",  
                                     choices: [
                                         {
                                             opt: 'A',
                                             id: 1, 
-                                            text:'ocial pressure was not a factor in the experiment.', 
+                                            text:'Social pressure was not a factor in the experiment.', 
                                             check: true, 
                 
                                         },
@@ -552,28 +552,28 @@ export default class TestScreen extends React.Component {
                                         {
                                             opt: 'A',
                                             id: 1, 
-                                            text:"Lines 16-22 (“The task...probe.”)", 
+                                            text:"Lines 12-15 (“The task...probe.”)", 
                                             check: false, 
                 
                                         },
                                         {
                                             opt: 'B',
                                             id:2, 
-                                            text:"B)	Lines 22-30 (“The casually...box.”)",  
+                                            text:"Lines 15-20 (“The casually...box.”)",  
                                             check: true, 
                 
                                         },
                                         {
                                             opt: 'C',
                                             id:3, 
-                                            text: "Lines 38-42 (“Of interest...goal.”)",  
+                                            text: "Lines 52-60 (“Of interest...goal.”)",  
                                             check: false, 
                 
                                         },
                                         {
                                             opt: 'D',
                                             id:4, 
-                                            text: "Lines 43-52 (“Despite...task.”)",  
+                                            text: "Lines 30-36 (“Despite...task.”)",  
                                             check: false, 
                                         } 
                                     ],
@@ -583,7 +583,7 @@ export default class TestScreen extends React.Component {
                                 {
                                     id: 14,
                                     question: 
-                                    "14. Which choice best summarizes the fifth paragraph of the passage (lines 53-62)?",  
+                                    "14. Which choice best summarizes the fifth paragraph of the passage (lines 37-43)?",  
                                     choices: [
                                         {
                                             opt: 'A',
@@ -613,7 +613,212 @@ export default class TestScreen extends React.Component {
                                         } 
                                     ],
                                     selectedChoice: '',
-                                }
+                                }, 
+                                {
+                                    id: 15,
+                                    question: 
+                                    "15. In line 44, the word “principal” most nearly means",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"Adults are less likely than children to follow the examples others set.", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"Social learning influences actions at any age.",  
+                                            check: true, 
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "Humans choose which social norms they want to follow.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "Irrelevant tasks did not distract participants from achieving the goal.",  
+                                            check: false, 
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                                }, 
+
+                                {
+                                    id: 16,
+                                    question: 
+                                    "16. Which of the following best characterizes the perspective of the researchers as to why over-imitation occurred in the experiment?",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"They saw social influences such as social pressure as the reason for over-imitation.", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"They believe over-imitation is a result of age dependent motivation.",  
+                                            check: true, 
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "They could not pinpoint a specific reason, but believed social influences were not a factor.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "They determined their research was flawed there was no evidence of over-imitation actually occuring.",  
+                                            check: false, 
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                                }, 
+                                {
+                                    id: 17,
+                                    question: 
+                                    "17. The passage references “a number of social influences” (lines 53 - 54) in order to",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"explore the reasons behind the results of the study conducted.", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"explain what might have been the cause of over-imitation in a situation where social influences were likely.",  
+                                            check: true, 
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "provide facts to support the main point.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "offer a different interpretation of the experimental results.",  
+                                            check: false, 
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                                }, 
+                                {
+                                    id: 18,
+                                    question: 
+                                    "18. The passage implies that in the absence of social demands",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"social influence does not exist.", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"people will not over-imitate.",  
+                                            check: true, 
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "the experiment’s results would have been different.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "age plays a more significant role.",  
+                                            check: false, 
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                                }, 
+                                {
+                                    id: 19,
+                                    question: 
+                                    "19. Data from the figures most strongly supports which of the following statements?",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"Over-imitation is equally likely to occur in all age groups.", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"Out of all of the ages, those 16 and older were most likely to drag the bolts regardless of what they saw.",  
+                                            check: true, 
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "In the control group, no one performed the irrelevant actions.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "4-9 year olds are more likely to over-imitate than 10-15 year olds.",  
+                                            check: false, 
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                                }, 
+                                {
+                                    id: 20,
+                                    question: 
+                                    "20. The data shown the figures best serves as evidence of which idea presented in the passage?",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:'“on completion of the irrelevant actions, the model performed a two stage relevant sequence” (line 21-29)', 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:'“participants would copy all of the actions” (line 26-27)',  
+                                            check: true, 
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: '“these influences may elicit a motivation on the part of the observer” (line 55-56)',  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: '“other age independent motivations may be responsible” (line 64-65)',  
+                                            check: false, 
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                                }, 
                             ],
                 }, 
                 {
@@ -652,75 +857,330 @@ export default class TestScreen extends React.Component {
                     IsFirstSectionType: false, 
                     questions: [
                         {
-                            id: 1,
+                            id: 21,
                             question: 
-                            "1.1 As presented in the passage, Mr. Kearney is best described as",  
+                            "21. In lines 3-6, the author of the passage defines the qualities of drinking water primarily to",  
                             choices: [
                                 {
                                     opt: 'A',
                                     id: 1, 
-                                    text:"independent and strong willed.", 
+                                    text:"convey a serious tone.", 
                                     check: false, 
                                 },
                                 {
                                     opt: 'B',
                                     id:2, 
-                                    text:"paternal and affectionate.",  
+                                    text:"frame the information that follows.",  
                                     check:false, 
                                 },
                                 {
                                     opt: 'C',
                                     id:3, 
-                                    text: "serious and family oriented.",  
+                                    text: "provide background knowledge.",  
                                     check:true, 
                                 },
                                 {
                                     opt: 'D',
                                     id:4, 
-                                    text: "boring and simple minded.",  
+                                    text: "compare and contrast ideas.",  
                                     check:false, 
                                 } 
                             ],
                             selectedChoice: '',
-                       
                         },
                         {
-                            id: 2,
+                            id: 22,
                             question: 
-                            "1.2 As presented in the passage, Mr. Kearney is best described as",  
+                            "22. According to the author, the most important step to effectively prevent the spread of waterborne diseases is",  
                             choices: [
                                 {
                                     opt: 'A',
                                     id: 1, 
-                                    text:"2independent and strong willed.", 
+                                    text:"basic sanitation.", 
                                     check: false, 
         
                                 },
                                 {
                                     opt: 'B',
                                     id:2, 
-                                    text:"2paternal and affectionate.",  
+                                    text:"prevention of contaminants.",  
                                     check: false, 
         
                                 },
                                 {
                                     opt: 'C',
                                     id:3, 
-                                    text: "2serious and family oriented.",  
+                                    text: "disinfection.",  
                                     check: false, 
         
                                 },
                                 {
                                     opt: 'D',
                                     id:4, 
-                                    text: "2boring and simple minded.",  
+                                    text: "spreading awareness.",  
                                     check: true, 
         
                                 } 
                             ],
                             selectedChoice: '',
-                       
                         },
+                        {
+                            id: 23,
+                            question: 
+                            "23. It can be inferred from the passage that water is most likely to be contaminated",  
+                            choices: [
+                                {
+                                    opt: 'A',
+                                    id: 1, 
+                                    text:"as it goes through a distribution system.", 
+                                    check: false, 
+                                },
+                                {
+                                    opt: 'B',
+                                    id:2, 
+                                    text:"at the point of origin.",  
+                                    check:false, 
+                                },
+                                {
+                                    opt: 'C',
+                                    id:3, 
+                                    text: "when filtration processes are used.",  
+                                    check:true, 
+                                },
+                                {
+                                    opt: 'D',
+                                    id:4, 
+                                    text: "from sewage that has been improperly disposed of.",  
+                                    check:false, 
+                                } 
+                            ],
+                            selectedChoice: '',
+                        },
+                        {
+                            id: 24,
+                            question: 
+                            "24. What explanation does the passage give as to why many of the common technologies used for water disinfection do not work?",  
+                            choices: [
+                                {
+                                    opt: 'A',
+                                    id: 1, 
+                                    text:"Not all of the bacteria are filtered out.", 
+                                    check: false, 
+                                },
+                                {
+                                    opt: 'B',
+                                    id:2, 
+                                    text:"The processes are too complicated to implement on a large scale.",  
+                                    check:false, 
+                                },
+                                {
+                                    opt: 'C',
+                                    id:3, 
+                                    text: "Even if they were widely distributed, no one would use them.",  
+                                    check:true, 
+                                },
+                                {
+                                    opt: 'D',
+                                    id:4, 
+                                    text: "The resources are not largely available.",  
+                                    check:false, 
+                                } 
+                            ],
+                            selectedChoice: '',
+                        },
+                        {
+                            id: 25,
+                            question: 
+                            "25. Which choice provides the best evidence for the answer to the previous question?",  
+                            choices: [
+                                {
+                                    opt: 'A',
+                                    id: 1, 
+                                    text:"Lines 12-14 (“The World...sanitation”)", 
+                                    check: false, 
+                                },
+                                {
+                                    opt: 'B',
+                                    id:2, 
+                                    text:"Lines 26-28 (“Common...treatment.”)",  
+                                    check:false, 
+                                },
+                                {
+                                    opt: 'C',
+                                    id:3, 
+                                    text: "Lines 33-35 (“UV-disinfection...sunlight.”)",  
+                                    check:true, 
+                                },
+                                {
+                                    opt: 'D',
+                                    id:4, 
+                                    text: "Lines 45-47 (“In this...needed.”)",  
+                                    check:false, 
+                                } 
+                            ],
+                            selectedChoice: '',
+                        },
+                        {
+                            id: 26,
+                            question: 
+                            "26. The author mentioned various filtration devices in the fourth paragraph (lines 36-50) in order to",  
+                            choices: [
+                                {
+                                    opt: 'A',
+                                    id: 1, 
+                                    text:"argue against the use of filtration systems in general.", 
+                                    check: false, 
+                                },
+                                {
+                                    opt: 'B',
+                                    id:2, 
+                                    text:"provide examples of technology that successfully disinfects water.",  
+                                    check:false, 
+                                },
+                                {
+                                    opt: 'C',
+                                    id:3, 
+                                    text: "establish a problem that the passage later offers a solution to.",  
+                                    check:true, 
+                                },
+                                {
+                                    opt: 'D',
+                                    id:4, 
+                                    text: "emphasize the extent of the main issue of the passage.",  
+                                    check:false, 
+                                } 
+                            ],
+                            selectedChoice: '',
+                        },
+                        {
+                            id: 27,
+                            question: 
+                            "27. As used in line 57, the words “biologically safe” most nearly mean",  
+                            choices: [
+                                {
+                                    opt: 'A',
+                                    id: 1, 
+                                    text:"biohazardous", 
+                                    check: false, 
+                                },
+                                {
+                                    opt: 'B',
+                                    id:2, 
+                                    text:"safeguarded",  
+                                    check:false, 
+                                },
+                                {
+                                    opt: 'C',
+                                    id:3, 
+                                    text: "consumable",  
+                                    check:true, 
+                                },
+                                {
+                                    opt: 'D',
+                                    id:4, 
+                                    text: "invulnerable",  
+                                    check:false, 
+                                } 
+                            ],
+                            selectedChoice: '',
+                        },
+                        {
+                            id: 28,
+                            question: 
+                            "28. According to the passage, plant xylem is a “potential solution” to disinfecting water because xylem",  
+                            choices: [
+                                {
+                                    opt: 'A',
+                                    id: 1, 
+                                    text:"helps plants transport sap.", 
+                                    check: false, 
+                                },
+                                {
+                                    opt: 'B',
+                                    id:2, 
+                                    text:"allows for the easy flow of a liquid, while also filtering out pathogens.",  
+                                    check:false, 
+                                },
+                                {
+                                    opt: 'C',
+                                    id:3, 
+                                    text: "is an expensive alternative to other filtration processes.",  
+                                    check:true, 
+                                },
+                                {
+                                    opt: 'D',
+                                    id:4, 
+                                    text: "has a durable structure.",  
+                                    check:false, 
+                                } 
+                            ],
+                            selectedChoice: '',
+                        },
+                        {
+                            id: 29,
+                            question: 
+                            "29. Which choice provides the best evidence for the answer to the previous question?",  
+                            choices: [
+                                {
+                                    opt: 'A',
+                                    id: 1, 
+                                    text:"Lines 36-38 (“While...exist.”)", 
+                                    check: false, 
+                                },
+                                {
+                                    opt: 'B',
+                                    id:2, 
+                                    text:"Lines 47-50 (“Specifically...population.”)",  
+                                    check:false, 
+                                },
+                                {
+                                    opt: 'C',
+                                    id:3, 
+                                    text: "Lines 55-57 (“Xylem...caviation.”)",  
+                                    check:true, 
+                                },
+                                {
+                                    opt: 'D',
+                                    id:4, 
+                                    text: "Lines 57-60 (“The size...devices.”)",  
+                                    check:false, 
+                                } 
+                            ],
+                            selectedChoice: '',
+                        },
+                        {
+                            id: 30,
+                            question: 
+                            "30. The central claim of the passage is that xylem is",  
+                            choices: [
+                                {
+                                    opt: 'A',
+                                    id: 1, 
+                                    text:"an inexpensive and effective alternative for water filtration.", 
+                                    check: false, 
+                                },
+                                {
+                                    opt: 'B',
+                                    id:2, 
+                                    text:"the only solution to bringing about cleaner and safer drinking water.",  
+                                    check:false, 
+                                },
+                                {
+                                    opt: 'C',
+                                    id:3, 
+                                    text: "yet to be proven as a successful water clearning system.",  
+                                    check:true, 
+                                },
+                                {
+                                    opt: 'D',
+                                    id:4, 
+                                    text: "an inspiration from nature that offers an answer to an unsolved problem.",  
+                                    check:false, 
+                                } 
+                            ],
+                            selectedChoice: '',
+                        },
+                        
                     ] 
                 }, 
 
@@ -768,10 +1228,14 @@ export default class TestScreen extends React.Component {
                         }, 
                         {
                             id:10, 
-                            content: 'By far the most important was that for the first time, a Government of the United States asked for and courts granted an injunction against newspapers-and prior restraint, death to a free press, had a precedent.', 
+                            content: 'Some unpleasant things happened, not because of the publication of the papers but because the Government rushed into battle against them.', 
                         }, 
                         {
                             id:11, 
+                            content: 'By far the most important was that for the first time, a Government of the United States asked for and courts granted an injunction against newspapers-and prior restraint, death to a free press, had a precedent.', 
+                        }, 
+                        {
+                            id:12, 
                             content: 'That was a loss and it could only be redressed in the future by the determination of American society-the press, the public, the courts, the politicians-to fight to the end against any future attempts at prior restraint. No press ever remained free by bowing to censorship beforehand for fear of what might take place if it printed the truth.', 
                         }
                     ], 
@@ -779,32 +1243,32 @@ export default class TestScreen extends React.Component {
                     IsFirstSectionType: false, 
                     questions: [
                         {
-                            id: 1,
+                            id: 31,
                             question: 
-                            "1.1 As presented in the passage, Mr. Kearney is best described as",  
+                            "31. The central claim of Passage 1 is that",  
                             choices: [
                                 {
                                     opt: 'A',
                                     id: 1, 
-                                    text:"independent and strong willed.", 
+                                    text:"the acts by the New York Times were unconstitutional.", 
                                     check: false, 
                                 },
                                 {
                                     opt: 'B',
                                     id:2, 
-                                    text:"paternal and affectionate.",  
+                                    text:"national security is of greater concern than freedom of press.",  
                                     check:false, 
                                 },
                                 {
                                     opt: 'C',
                                     id:3, 
-                                    text: "serious and family oriented.",  
+                                    text: "Nixon used the release of the Pentagon Papers to further his own agenda.",  
                                     check:true, 
                                 },
                                 {
                                     opt: 'D',
                                     id:4, 
-                                    text: "boring and simple minded.",  
+                                    text: "the Pentagon Papers needed to be released to the public",  
                                     check:false, 
                                 } 
                             ],
@@ -812,41 +1276,368 @@ export default class TestScreen extends React.Component {
                        
                         },
                         {
-                            id: 2,
+                            id: 32,
                             question: 
-                            "1.2 As presented in the passage, Mr. Kearney is best described as",  
+                            "32. Nixon indicates that while his political advisors suggested releasing the Pentagon Papers, he believed that",  
                             choices: [
                                 {
                                     opt: 'A',
                                     id: 1, 
-                                    text:"2independent and strong willed.", 
+                                    text:"policy overruled personal benefits.", 
                                     check: false, 
         
                                 },
                                 {
                                     opt: 'B',
                                     id:2, 
-                                    text:"2paternal and affectionate.",  
+                                    text:"the New York Times would act responsibly.",  
                                     check: false, 
         
                                 },
                                 {
                                     opt: 'C',
                                     id:3, 
-                                    text: "2serious and family oriented.",  
+                                    text: "democracy would be put at risk.",  
                                     check: false, 
         
                                 },
                                 {
                                     opt: 'D',
                                     id:4, 
-                                    text: "2boring and simple minded.",  
+                                    text: "the truth about Vietnam should be revealed.",  
                                     check: true, 
         
                                 } 
                             ],
                             selectedChoice: '',
                        
+                        },
+                        {
+                            id: 33,
+                            question: 
+                            "33. What does Nixon imply would happen if Washington had not acted against the New York Times?",  
+                            choices: [
+                                {
+                                    opt: 'A',
+                                    id: 1, 
+                                    text:"It would show that the government was weak and unable to defend itself.", 
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'B',
+                                    id:2, 
+                                    text:"Civil disobedience would be encouraged throughout America.",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'C',
+                                    id:3, 
+                                    text: "Others would seek the opportunity to make government secrets public.",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'D',
+                                    id:4, 
+                                    text: "There would be no limits to freedom of speech in newspapers.",  
+                                    check: true, 
+        
+                                } 
+                            ],
+                            selectedChoice: '',
+                       
+                        },
+                        {
+                            id: 34,
+                            question: 
+                            "34. Which choice provides the best evidence for the answer to the previous question?",  
+                            choices: [
+                                {
+                                    opt: 'A',
+                                    id: 1, 
+                                    text:"Lines 12-15 (“Yet never...Vietnam.”)", 
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'B',
+                                    id:2, 
+                                    text:"Lines 18-20 (“Its release...policy.”)",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'C',
+                                    id:3, 
+                                    text: "Lines 20-21 (“If we...precendent.”)",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'D',
+                                    id:4, 
+                                    text: "Lines 24-27 (“In the...happened.”)",  
+                                    check: true, 
+        
+                                } 
+                            ],
+                            selectedChoice: '',
+                       
+                        },
+                        {
+                            id: 35,
+                            question: 
+                            "35. The author of Passage 2 brings up the “great constitutional issue of freedom of the press” in order to",  
+                            choices: [
+                                {
+                                    opt: 'A',
+                                    id: 1, 
+                                    text:"frame his argument.", 
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'B',
+                                    id:2, 
+                                    text:"pose a question he later investigates.",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'C',
+                                    id:3, 
+                                    text: "contrast his ideas with Nixon’s.",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'D',
+                                    id:4, 
+                                    text: "identify a cause of concern.",  
+                                    check: true, 
+        
+                                } 
+                            ],
+                            selectedChoice: '',
+                       
+                        },
+                        {
+                            id: 36,
+                            question: 
+                            "36. What is the reason given by Passage 2 to why the papers were published in the New York Times?",  
+                            choices: [
+                                {
+                                    opt: 'A',
+                                    id: 1, 
+                                    text:"The press wanted the public to be aware of the unjust policies of the government.", 
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'B',
+                                    id:2, 
+                                    text:"The New York Times believed no one else would come forward and release the information.",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'C',
+                                    id:3, 
+                                    text: "The New York Times was not afraid of taking on the government in court.",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'D',
+                                    id:4, 
+                                    text: "It was done in the national interest as it was the responsibility of the press to provide the truth.",  
+                                    check: true, 
+        
+                                } 
+                            ],
+                            selectedChoice: '',
+                        },
+                        {
+                            id: 37,
+                            question: 
+                            "37. Which choice provides the best evidence for the answer to the previous question?",  
+                            choices: [
+                                {
+                                    opt: 'A',
+                                    id: 1, 
+                                    text:"Lines 46-48 (“The decisions...about.”)", 
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'B',
+                                    id:2, 
+                                    text:"Lines 49-51 (“Some unpleasant...them.”)",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'C',
+                                    id:3, 
+                                    text: "Lines 56-59 (“That was...restraint.”)",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'D',
+                                    id:4, 
+                                    text: "Lines 59-61 (“No press...truth.”)", 
+                                    check: true, 
+        
+                                } 
+                            ],
+                            selectedChoice: '',
+                        },
+                        {
+                            id: 38,
+                            question: 
+                            "38. In line 45, the word “defy” most nearly means",  
+                            choices: [
+                                {
+                                    opt: 'A',
+                                    id: 1, 
+                                    text:"escape", 
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'B',
+                                    id:2, 
+                                    text:"challenge",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'C',
+                                    id:3, 
+                                    text: "dare",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'D',
+                                    id:4, 
+                                    text: "elude",  
+                                    check: true, 
+        
+                                } 
+                            ],
+                            selectedChoice: '',
+                        },
+                        {
+                            id: 39,
+                            question: 
+                            "39. Which best describes the overall relationship between Passage 1 and Passage 2?",  
+                            choices: [
+                                {
+                                    opt: 'A',
+                                    id: 1, 
+                                    text:"Passage 1 presents a perspective on an issue discussed in Passage 2.", 
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'B',
+                                    id:2, 
+                                    text:"Passage 1 gives concrete evidence for claims made in Passage 2.",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'C',
+                                    id:3, 
+                                    text: "Passage 2 defends a position that Passage 1 strongly disgrees with.",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'D',
+                                    id:4, 
+                                    text: "Passage 2 confirms conclusions made in Passage 1.",  
+                                    check: true, 
+        
+                                } 
+                            ],
+                            selectedChoice: '',
+                        },
+                        {
+                            id: 40,
+                            question: 
+                            "40. In comparison to Passage 2, the author of Passage 1 believes that taking the issue to court was",  
+                            choices: [
+                                {
+                                    opt: 'A',
+                                    id: 1, 
+                                    text:"a huge mistake.", 
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'B',
+                                    id:2, 
+                                    text:"the appropriate response.",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'C',
+                                    id:3, 
+                                    text: "a threat to the nation.",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'D',
+                                    id:4, 
+                                    text: "to be avoided at all costs.",  
+                                    check: true, 
+        
+                                } 
+                            ],
+                            selectedChoice: '',
+                        },
+                        {
+                            id: 41,
+                            question: 
+                            "41. How would the author of Passage 2 most likely respond to the statements made by Nixon in lines 8-10?",  
+                            choices: [
+                                {
+                                    opt: 'A',
+                                    id: 1, 
+                                    text:"with anger because it was not his fault the issue went to court", 
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'B',
+                                    id:2, 
+                                    text:"with concern since he worked for the New York Times",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'C',
+                                    id:3, 
+                                    text: "with bitterness as the statements were inaccurate",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'D',
+                                    id:4, 
+                                    text: "with offense seeing that he believed the New York Times was doing the right thing.",  
+                                    check: true, 
+        
+                                } 
+                            ],
+                            selectedChoice: '',
                         },
                     ] 
                 }, 
@@ -882,7 +1673,7 @@ export default class TestScreen extends React.Component {
                         },
                         {
                             id: 7, 
-                            contnet: ' This study confirmed that blue light is lethal to all growth stages of D. melanogaster. We showed that the most toxic wavelength differed at different developmental stages. Shorter wavelengths were more harmful to eggs. Eggs were assumed ta be damaged by light with a shorter wavelength because this wavelength contains more energy. The lethal effects of blue light were different on larvae compared to the eqgs. This finding is important toward providing baseline information for establishing pest control methods using light irradiation.'
+                            content: 'This study confirmed that blue light is lethal to all growth stages of D. melanogaster. We showed that the most toxic wavelength differed at different developmental stages. Shorter wavelengths were more harmful to eggs. Eggs were assumed ta be damaged by light with a shorter wavelength because this wavelength contains more energy. The lethal effects of blue light were different on larvae compared to the eggs. This finding is important toward providing baseline information for establishing pest control methods using light irradiation.'
                         }
 
                     ], 
@@ -890,32 +1681,32 @@ export default class TestScreen extends React.Component {
                     IsFirstSectionType: false, 
                     questions: [
                         {
-                            id: 1,
+                            id: 42,
                             question: 
-                            "1.1 As presented in the passage, Mr. Kearney is best described as",  
+                            "42. It can be inferred from the passage that the meaning of the word “phototaxis” (lines 2 and 6) is closest to which of the following?",  
                             choices: [
                                 {
                                     opt: 'A',
                                     id: 1, 
-                                    text:"independent and strong willed.", 
+                                    text:"pest control", 
                                     check: false, 
                                 },
                                 {
                                     opt: 'B',
                                     id:2, 
-                                    text:"paternal and affectionate.",  
+                                    text:"x-rays of insects",  
                                     check:false, 
                                 },
                                 {
                                     opt: 'C',
                                     id:3, 
-                                    text: "serious and family oriented.",  
+                                    text: "responsive movement towards light",  
                                     check:true, 
                                 },
                                 {
                                     opt: 'D',
                                     id:4, 
-                                    text: "boring and simple minded.",  
+                                    text: "electric shock",  
                                     check:false, 
                                 } 
                             ],
@@ -923,41 +1714,364 @@ export default class TestScreen extends React.Component {
                        
                         },
                         {
-                            id: 2,
+                            id: 43,
                             question: 
-                            "1.2 As presented in the passage, Mr. Kearney is best described as",  
+                            "43. Which choice provides the best evidence for the effectiveness of using the response of insects to light in pest control?",  
                             choices: [
                                 {
                                     opt: 'A',
                                     id: 1, 
-                                    text:"2independent and strong willed.", 
+                                    text:"Lines 3-5 (“By identifying...outbreaks.”)", 
                                     check: false, 
         
                                 },
                                 {
                                     opt: 'B',
                                     id:2, 
-                                    text:"2paternal and affectionate.",  
+                                    text:"Lines 8-11 (“Another...behavior.”)",  
                                     check: false, 
         
                                 },
                                 {
                                     opt: 'C',
                                     id:3, 
-                                    text: "2serious and family oriented.",  
+                                    text: "Lines 15-18 (“Specifically...fields.”)",  
                                     check: false, 
         
                                 },
                                 {
                                     opt: 'D',
                                     id:4, 
-                                    text: "2boring and simple minded.",  
+                                    text: "Lines 19-25 (“However...insects.”)",  
                                     check: true, 
         
                                 } 
                             ],
                             selectedChoice: '',
-                       
+                        },
+                        {
+                            id: 44,
+                            question: 
+                            "44. What does the passage claim about the previous study completed on the effect of lights on insects as mentioned in the third paragraph?",  
+                            choices: [
+                                {
+                                    opt: 'A',
+                                    id: 1, 
+                                    text:"It proved that light was an effective insect trap.", 
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'B',
+                                    id:2, 
+                                    text:"It failed to recognize the true affects of blue light on insects.",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'C',
+                                    id:3, 
+                                    text: "It disproved all previous theories on the effects of light on insects.",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'D',
+                                    id:4, 
+                                    text: "It identified the most lethal wavelength to use on insects.",  
+                                    check: true, 
+        
+                                } 
+                            ],
+                            selectedChoice: '',
+                        },
+                        {
+                            id: 45,
+                            question: 
+                            "45. The main purpose of the fourth paragraph (lines 30-37) is to",  
+                            choices: [
+                                {
+                                    opt: 'A',
+                                    id: 1, 
+                                    text:"inform the reader about other studies.", 
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'B',
+                                    id:2, 
+                                    text:"transition into the new study completed.",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'C',
+                                    id:3, 
+                                    text: "illustrate an experimental procedure.",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'D',
+                                    id:4, 
+                                    text: "define the meaning of a word.",  
+                                    check: true, 
+        
+                                } 
+                            ],
+                            selectedChoice: '',
+                        },
+                        {
+                            id: 46,
+                            question: 
+                            "46. Why was the fruit fly selected to be a part of the second study on developmental stages (lines 60-71)?",  
+                            choices: [
+                                {
+                                    opt: 'A',
+                                    id: 1, 
+                                    text:"Flies have the most developmental stages out of all of the insects.", 
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'B',
+                                    id:2, 
+                                    text:"There was no specific reason why fruit flies were selected.",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'C',
+                                    id:3, 
+                                    text: "The only insect that has been proven to be sensitive to light is the fruit fly.",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'D',
+                                    id:4, 
+                                    text: "Many characteristics such as a short life span make the fruit fly an ideal laboratory specimen.",  
+                                    check: true, 
+        
+                                } 
+                            ],
+                            selectedChoice: '',
+                        },
+                        {
+                            id: 47,
+                            question: 
+                            "47. In line 48, the word “mechanism” most nearly means",  
+                            choices: [
+                                {
+                                    opt: 'A',
+                                    id: 1, 
+                                    text:"device", 
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'B',
+                                    id:2, 
+                                    text:"process",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'C',
+                                    id:3, 
+                                    text: "contraption",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'D',
+                                    id:4, 
+                                    text: "technique",  
+                                    check: true, 
+        
+                                } 
+                            ],
+                            selectedChoice: '',
+                        },
+                        {
+                            id: 48,
+                            question: 
+                            "48. What function does the final paragraph serve in relation to the rest of the passage?",  
+                            choices: [
+                                {
+                                    opt: 'A',
+                                    id: 1, 
+                                    text:"It offers alternative hypotheses for the study conducted.", 
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'B',
+                                    id:2, 
+                                    text:"It identifies possible errors in the calculations of the results.",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'C',
+                                    id:3, 
+                                    text: "It concludes the passage by connecting back to the first paragraph.",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'D',
+                                    id:4, 
+                                    text: "It presents supporting evidence for earlier claims made in the passage.",  
+                                    check: true, 
+        
+                                } 
+                            ],
+                            selectedChoice: '',
+                        },
+                        {
+                            id: 49,
+                            question: 
+                            "49. The passage is written from the point of view of a",  
+                            choices: [
+                                {
+                                    opt: 'A',
+                                    id: 1, 
+                                    text:"scientist evaluating their peers.", 
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'B',
+                                    id:2, 
+                                    text:"journalist informing the public.",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'C',
+                                    id:3, 
+                                    text: "biologist disproving a theory.",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'D',
+                                    id:4, 
+                                    text: "researcher contributing to the field.",  
+                                    check: true, 
+        
+                                } 
+                            ],
+                            selectedChoice: '',
+                        },
+                        {
+                            id: 50,
+                            question: 
+                            "50. Which choice best reflects the overall sequence of events in the passage?",  
+                            choices: [
+                                {
+                                    opt: 'A',
+                                    id: 1, 
+                                    text:"an experiment is explained, an anomaly is observed, and a hypothesis is posed", 
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'B',
+                                    id:2, 
+                                    text:"a question leads to a study, a mistake is identified, conclusions are made",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'C',
+                                    id:3, 
+                                    text: "a general observation is made, a previous study is analyzed, and new discoveries are evaluated",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'D',
+                                    id:4, 
+                                    text: "an opinion is questioned, data is examined, and outside opinions are state",  
+                                    check: true, 
+        
+                                } 
+                            ],
+                            selectedChoice: '',
+                        },
+                        {
+                            id: 51,
+                            question: 
+                            "51. According to figure 1 and figure 2, as wavelength increases, mortality",  
+                            choices: [
+                                {
+                                    opt: 'A',
+                                    id: 1, 
+                                    text:"increases", 
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'B',
+                                    id:2, 
+                                    text:"decreases",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'C',
+                                    id:3, 
+                                    text: "stays the same",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'D',
+                                    id:4, 
+                                    text: "increases and then decreases",  
+                                    check: true, 
+        
+                                } 
+                            ],
+                            selectedChoice: '',
+                        },
+                        {
+                            id: 52,
+                            question: 
+                            "52. Based on the passage, if another insect received the same treatment as the fruit flies at different developmental stages how would that graph compare to figure 1 and figure 2?",  
+                            choices: [
+                                {
+                                    opt: 'A',
+                                    id: 1, 
+                                    text:"It would look identical.", 
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'B',
+                                    id:2, 
+                                    text:"The egg mortality would be di_erent.",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'C',
+                                    id:3, 
+                                    text: "The larval mortality would change.",  
+                                    check: false, 
+        
+                                },
+                                {
+                                    opt: 'D',
+                                    id:4, 
+                                    text: "No comparisons can be made.",  
+                                    check: true, 
+        
+                                } 
+                            ],
+                            selectedChoice: '',
                         },
                     ] 
                 }, 
@@ -973,7 +2087,6 @@ export default class TestScreen extends React.Component {
                             questions:[], 
                             
                 }, 
-
                 {
                     id:7, 
                     defaultTimer: 35,
@@ -984,11 +2097,18 @@ export default class TestScreen extends React.Component {
                             passage: [
                                 {
                                     id:1, 
-                                    content: 'Beauty of leaf and blossom is not the only attraction possessed by this charming little plant. As a family, the wood-sorrels have great interest for botanists since Darwin devoted such [1. long] study to their power of movement. and many other scientists have described the several forms assumed by perfect flowers of the same.', 
+                                    content: 'Beauty of leaf and blossom is not the only attraction possessed by this charming little plant. As a family, the wood-sorrels have great interest for botanists since Darwin devoted such long study to their power of movement. and many other scientists have described the several forms assumed by perfect flowers of the same.', 
                                 }, 
-        
                                 {
                                     id:2, 
+                                    content: '1. long', 
+                                }, 
+                                {
+                                    id:3, 
+                                    content: ' study to their power of movement. and many other scientists have described the several forms assumed by perfect flowers of the same.', 
+                                }, 
+                                {
+                                    id:4, 
                                     content: 'was inserted into the hole and struck multiple times against a false ceiling inside the box.', 
                                 }
         
@@ -997,30 +2117,30 @@ export default class TestScreen extends React.Component {
                                 {
                                     id: 1,
                                     question: 
-                                    "1.1 As presented in the passage, Mr. Kearney is best described as",  
+                                    "1.",  
                                     choices: [
                                         {
                                             opt: 'A',
                                             id: 1, 
-                                            text:"independent and strong willed.", 
+                                            text:"NO CHANGE", 
                                             check: false, 
                                         },
                                         {
                                             opt: 'B',
                                             id:2, 
-                                            text:"paternal and affectionate.",  
+                                            text:"bursting",  
                                             check:false, 
                                         },
                                         {
                                             opt: 'C',
                                             id:3, 
-                                            text: "serious and family oriented.",  
+                                            text: "exhaustive",  
                                             check:true, 
                                         },
                                         {
                                             opt: 'D',
                                             id:4, 
-                                            text: "boring and simple minded.",  
+                                            text: "full",  
                                             check:false, 
                                         } 
                                     ],
@@ -1030,39 +2150,362 @@ export default class TestScreen extends React.Component {
                                 {
                                     id: 2,
                                     question: 
-                                    "1.2 As presented in the passage, Mr. Kearney is best described as",  
+                                    "2. The writer is considering deleting the underlined sentence. Should the sentence be kept or deleted?",  
                                     choices: [
                                         {
                                             opt: 'A',
                                             id: 1, 
-                                            text:"2independent and strong willed.", 
+                                            text:"Kept, because it helps explain what blind flowers are", 
                                             check: false, 
                 
                                         },
                                         {
                                             opt: 'B',
                                             id:2, 
-                                            text:"2paternal and affectionate.",  
+                                            text:"Kept, because it provides information that Darwin would find fascinating.",  
                                             check: false, 
                 
                                         },
                                         {
                                             opt: 'C',
                                             id:3, 
-                                            text: "2serious and family oriented.",  
+                                            text: "Deleted, because it blurs the focus of the paragraph by introducing loosely related information.",  
                                             check: false, 
                 
                                         },
                                         {
                                             opt: 'D',
                                             id:4, 
-                                            text: "2boring and simple minded.",  
+                                            text: "Deleted, because it contradicts the passage’s claims about cross-fertilization.",  
                                             check: true, 
                 
                                         } 
                                     ],
                                     selectedChoice: '',
-                               
+                                },
+                                {
+                                    id: 3,
+                                    question: 
+                                    "3.",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"NO CHANGE", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"evening and during the day they are",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "evening, and during the day this is",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "evening, and during the day they are",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                                },
+                                {
+                                    id: 4,
+                                    question: 
+                                    "4.",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"NO CHANGE", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"as with",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "whereby",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "as regards the sake of",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                                },
+                                {
+                                    id: 5,
+                                    question: 
+                                    "5.",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"NO CHANGE", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"yet",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "because",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "moreover",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                                },
+                                {
+                                    id: 6,
+                                    question: 
+                                    "6.",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"NO CHANGE", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"them",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "it",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "those in a",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                                },
+                                {
+                                    id: 7,
+                                    question: 
+                                    "7.",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"NO CHANGE", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"infinite",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "numerous without bound",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "lots of",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                                },
+                                {
+                                    id: 8,
+                                    question: 
+                                    "8. Which choice most eectively combines the underlined sentences?",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"The violet wood-sorrel produces two sorts of perfect flowers, reciprocally adapted, to each other but on dierent plants, in the same neighborhood.", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"The violet wood-sorrel produces two sorts of perfect flowers reciprocally adapted to each other but on different plants, in the same neighborhood.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "Two sorts of perfect flowers, reciprocally adapted to each other but on different plants in the same neighborhood, are being produced by the violet wood-sorrel.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "The violet wood-sorrel producing two sorts of perfect flowers reciprocally adapted to each other on different plants in the same neighborhood.",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                                },
+                                {
+                                    id: 9,
+                                    question: 
+                                    "9. ",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"NO CHANGE", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"it's",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "its'",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "they're",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                                },
+                                {
+                                    id: 10,
+                                    question: 
+                                    "10. ",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"NO CHANGE", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"have been",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "had been",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "are",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                                },
+                                {
+                                    id: 11,
+                                    question: 
+                                    "11. Which choice most effectively combines the underlined sentences?",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"where it is now.", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"before sentence 1.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "after sentence 3.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "after sentence 4.",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
                                 },
                             ]
                 }, 
@@ -1087,32 +2530,32 @@ export default class TestScreen extends React.Component {
                             ],   
                             questions: [
                                 {
-                                    id: 1,
+                                    id: 12,
                                     question: 
-                                    "1.1 As presented in the passage, Mr. Kearney is best described as",  
+                                    "12.",  
                                     choices: [
                                         {
                                             opt: 'A',
                                             id: 1, 
-                                            text:"independent and strong willed.", 
+                                            text:"NO CHANGE", 
                                             check: false, 
                                         },
                                         {
                                             opt: 'B',
                                             id:2, 
-                                            text:"paternal and affectionate.",  
+                                            text:"as President, however",  
                                             check:false, 
                                         },
                                         {
                                             opt: 'C',
                                             id:3, 
-                                            text: "serious and family oriented.",  
+                                            text: "as President however,",  
                                             check:true, 
                                         },
                                         {
                                             opt: 'D',
                                             id:4, 
-                                            text: "boring and simple minded.",  
+                                            text: "as President; however,",  
                                             check:false, 
                                         } 
                                     ],
@@ -1120,41 +2563,366 @@ export default class TestScreen extends React.Component {
                                
                                 },
                                 {
-                                    id: 2,
+                                    id: 13,
                                     question: 
-                                    "1.2 As presented in the passage, Mr. Kearney is best described as",  
+                                    "13",  
                                     choices: [
                                         {
                                             opt: 'A',
                                             id: 1, 
-                                            text:"2independent and strong willed.", 
+                                            text:"NO CHANGE", 
                                             check: false, 
                 
                                         },
                                         {
                                             opt: 'B',
                                             id:2, 
-                                            text:"2paternal and affectionate.",  
+                                            text:"made another bid",  
                                             check: false, 
                 
                                         },
                                         {
                                             opt: 'C',
                                             id:3, 
-                                            text: "2serious and family oriented.",  
+                                            text: "went there",  
                                             check: false, 
                 
                                         },
                                         {
                                             opt: 'D',
                                             id:4, 
-                                            text: "2boring and simple minded.",  
+                                            text: "efforted to put himself in position",  
                                             check: true, 
                 
                                         } 
                                     ],
                                     selectedChoice: '',
                                
+                                },
+                                {
+                                    id: 14,
+                                    question: 
+                                    "14. Which choice most effectively combines the underlined sentences?",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"Again on the point of success when Hamilton, who also belonged to New York State, crossed his path, to conciliate them he focused all his energies.", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"Hamilton, who also belonged to New York State, crossed his path when, to conciliate them, he was in the act of focusing all his energies and on the point of success.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "To conciliate them, he focused all his energies and was again on the point of success when Hamilton, who also belonged to New York State, crossed his path",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "Focusing all his energies to conciliate them, Hamilton, who also belonged to New York State, crossed his path when he was again on the point of success.",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                               
+                                },
+                                {
+                                    id: 15,
+                                    question: 
+                                    "15. ",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"NO CHANGE", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"whom",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "there",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "which",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                                },
+                                {
+                                    id: 16,
+                                    question: 
+                                    "15. To make this paragraph most logical, sentence 2 should be",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"placed before sentence 1.", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"placed after sentence 3.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "placed after sentence 4.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "placed after sentence 5.",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                                },
+                                {
+                                    id: 17,
+                                    question: 
+                                    "17. ",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"NO CHANGE", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"the future, he",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "the future, therefore, he",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "the future, therefore he",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                                },
+                                {
+                                    id: 18,
+                                    question: 
+                                    "18. ",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"NO CHANGE", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"a crack shot.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "a superb marksman who could shoot well.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "a superb marksman in addition to a crack shot.",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                                },
+                                {
+                                    id: 19,
+                                    question: 
+                                    "19. ",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"NO CHANGE", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"However,",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "Consequently,",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "Furthermore,",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                                },
+                                {
+                                    id: 20,
+                                    question: 
+                                    "20. Which choice adds the most relevant supporting information to the Paragraph?",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"Burr, who traveled by boat to the dueling ground.", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"Burr, whose unpopular politicking campaign for the vice-presidency was just one of many schemes that fueled his negative image.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "Burr, who later traveled to the Western frontier after he left the Vice-Presidency.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "Burr, who could be kind to family and strangers alike.",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                                },
+                                {
+                                    id: 21,
+                                    question: 
+                                    "21. ",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"NO CHANGE", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"States, and it was",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "States, however it was",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "States, but it was",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                                },
+                                {
+                                    id: 22,
+                                    question: 
+                                    "22. At this point, the write is considering adding the following sentence: 'Anti-Dueling Association of New York were well-received by the public and there was a signi_cant increase in public opposition to the practice of dueling.' Should the writer make this addition here?",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"Yes, because it provides an important detail required to understand Burr.", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"Yes, because it provides additional support for the main point of the paragraph.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "No, because it distracts from the passage’s focus with irrelevant information.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "No, because it does not indicate the magnitude of the increase.",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
                                 },
                             ]
                 }, 
@@ -1180,32 +2948,32 @@ export default class TestScreen extends React.Component {
                             ],   
                             questions: [
                                 {
-                                    id: 1,
+                                    id: 23,
                                     question: 
-                                    "1.1 As presented in the passage, Mr. Kearney is best described as",  
+                                    "23.",  
                                     choices: [
                                         {
                                             opt: 'A',
                                             id: 1, 
-                                            text:"independent and strong willed.", 
+                                            text:"NO CHANGE", 
                                             check: false, 
                                         },
                                         {
                                             opt: 'B',
                                             id:2, 
-                                            text:"paternal and affectionate.",  
+                                            text:"that, this age left in Ohio,",  
                                             check:false, 
                                         },
                                         {
                                             opt: 'C',
                                             id:3, 
-                                            text: "serious and family oriented.",  
+                                            text: "that this age left in Ohio,",  
                                             check:true, 
                                         },
                                         {
                                             opt: 'D',
                                             id:4, 
-                                            text: "boring and simple minded.",  
+                                            text: "that this age left in Ohio",  
                                             check:false, 
                                         } 
                                     ],
@@ -1213,41 +2981,368 @@ export default class TestScreen extends React.Component {
                                
                                 },
                                 {
-                                    id: 2,
+                                    id: 24,
                                     question: 
-                                    "1.2 As presented in the passage, Mr. Kearney is best described as",  
+                                    "24. ",  
                                     choices: [
                                         {
                                             opt: 'A',
                                             id: 1, 
-                                            text:"2independent and strong willed.", 
+                                            text:"NO CHANGE", 
                                             check: false, 
                 
                                         },
                                         {
                                             opt: 'B',
                                             id:2, 
-                                            text:"2paternal and affectionate.",  
+                                            text:"had been",  
                                             check: false, 
                 
                                         },
                                         {
                                             opt: 'C',
                                             id:3, 
-                                            text: "2serious and family oriented.",  
+                                            text: "is",  
                                             check: false, 
                 
                                         },
                                         {
                                             opt: 'D',
                                             id:4, 
-                                            text: "2boring and simple minded.",  
+                                            text: "being",  
                                             check: true, 
                 
                                         } 
                                     ],
                                     selectedChoice: '',
                                
+                                },
+                                {
+                                    id: 25,
+                                    question: 
+                                    "25. ",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"NO CHANGE", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"creeping",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "dripping",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "motioning",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                               
+                                },
+
+                                {
+                                    id: 26,
+                                    question: 
+                                    "26. At this point, the write is considering adding the following sentence:  “Given that Lake Erie is the shallowest of the Great Lakes, this is a surprising development.” Should the writer make this addition here?",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"Yes, because it creates geographical context necessary for understanding of the passage.", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"Yes, because it supports the paragraph’s argument with an important detail.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "No, because it challenges the author’s main claim.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "No, because it is not directly related to the main point of the paragraph.",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                               
+                                },
+                                {
+                                    id: 27,
+                                    question: 
+                                    "27. ",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"NO CHANGE", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"This is due to the fact that",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "For",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "As noted by prominent historians",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                               
+                                },
+                                {
+                                    id: 28,
+                                    question: 
+                                    "28. ",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"NO CHANGE", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"yet again",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "additionally",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "DELETE the underlined portion.",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                                },
+                                {
+                                    id: 29,
+                                    question: 
+                                    "29. ",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"NO CHANGE", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"a Greenland-esque climate",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "a climate like those of Greenland",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "a climate like that of Greenland",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                                },
+                                {
+                                    id: 30,
+                                    question: 
+                                    "30. ",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"NO CHANGE", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"tasks: such as",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "tasks such as:",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "tasks, such as",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                                },
+                                {
+                                    id: 31,
+                                    question: 
+                                    "31. ",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"NO CHANGE", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"were",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "is",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "are",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                                },
+                                {
+                                    id: 32,
+                                    question: 
+                                    "32. Which choice most eectively combines the underlined sentences?",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"Found in the glacier-built river banks of Europe even today are similar tools or weapons; they had left nothing else behind them.", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"With leaving nothing else behind them, similar tools or weapons are found in the glacier-built river banks of Europe even today.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "They left nothing else behind them, yet similar tools or weapons are found in the glacier-built river banks of Europe even today.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "Similar tools or weapons are found in the glacier-built river banks of Europe even today due to their leaving nothing else behind them.",  
+                                            check: true, 
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                                },
+                                {
+                                    id: 33,
+                                    question: 
+                                    "33. ",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"NO CHANGE", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"there",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "they're",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "their",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
                                 },
                             ]
                 }, 
@@ -1273,32 +3368,32 @@ export default class TestScreen extends React.Component {
                             ],   
                             questions: [
                                 {
-                                    id: 1,
+                                    id: 34,
                                     question: 
-                                    "1.1 As presented in the passage, Mr. Kearney is best described as",  
+                                    "34",  
                                     choices: [
                                         {
                                             opt: 'A',
                                             id: 1, 
-                                            text:"independent and strong willed.", 
+                                            text:"NO CHANGE", 
                                             check: false, 
                                         },
                                         {
                                             opt: 'B',
                                             id:2, 
-                                            text:"paternal and affectionate.",  
+                                            text:"In other words,",  
                                             check:false, 
                                         },
                                         {
                                             opt: 'C',
                                             id:3, 
-                                            text: "serious and family oriented.",  
+                                            text: "Indeed,",  
                                             check:true, 
                                         },
                                         {
                                             opt: 'D',
                                             id:4, 
-                                            text: "boring and simple minded.",  
+                                            text: "In fact,",  
                                             check:false, 
                                         } 
                                     ],
@@ -1306,35 +3401,368 @@ export default class TestScreen extends React.Component {
                                
                                 },
                                 {
-                                    id: 2,
+                                    id: 35,
                                     question: 
-                                    "1.2 As presented in the passage, Mr. Kearney is best described as",  
+                                    "35.",  
                                     choices: [
                                         {
                                             opt: 'A',
                                             id: 1, 
-                                            text:"2independent and strong willed.", 
+                                            text:"NO CHANGE", 
                                             check: false, 
                 
                                         },
                                         {
                                             opt: 'B',
                                             id:2, 
-                                            text:"2paternal and affectionate.",  
+                                            text:"to resemble",  
                                             check: false, 
                 
                                         },
                                         {
                                             opt: 'C',
                                             id:3, 
-                                            text: "2serious and family oriented.",  
+                                            text: "resemble",  
                                             check: false, 
                 
                                         },
                                         {
                                             opt: 'D',
                                             id:4, 
-                                            text: "2boring and simple minded.",  
+                                            text: "would have resembled",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                               
+                                },
+                                {
+                                    id: 36,
+                                    question: 
+                                    "36.",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"NO CHANGE", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"precedes",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "proceeds",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "precede",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                               
+                                },
+                                {
+                                    id: 37,
+                                    question: 
+                                    "36.",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"NO CHANGE", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"the houses, it is not",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "the houses, and it is not",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "the houses. It is not",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                               
+                                },
+                                {
+                                    id: 38,
+                                    question: 
+                                    "38.",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"NO CHANGE", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"leaning against the peak forming the sides.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "against the peak to form the sides.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "lean against the peak and they form the sides.",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                               
+                                },
+                                {
+                                    id: 39,
+                                    question: 
+                                    "39.",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"NO CHANGE", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"follows",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "sticks",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "obeys",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                               
+                                },
+                                {
+                                    id: 40,
+                                    question: 
+                                    "40.",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"NO CHANGE", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"simplest and most basic",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "simplest and most humble",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "simplest",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                               
+                                },
+                                {
+                                    id: 41,
+                                    question: 
+                                    "41. To make this paragraph most logical, sentence 1 should be placed",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"where it is now.", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"after sentence 3",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "after sentence 4",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "after sentence 6",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                               
+                                },
+                                {
+                                    id: 42,
+                                    question: 
+                                    "42.",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"NO CHANGE", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"myths in which First-man",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "myths where: First-man",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "myths, in which First-man,",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                               
+                                },
+                                {
+                                    id: 43,
+                                    question: 
+                                    "43. Which choice most effectively combines the underlined sentences?",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"In the south, Teal’ (Frog) was in a house of blue fog; nevertheless, Tiel’in, who is afterward a water monster, lay at that doorway.", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"In the south, Teal’ (Frog) was in a house of blue fog, and Tiel’in, a_erward a water monster, lay at that doorway.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "Teal’ (Frog) was in a house of blue fog in the south, but Tiel’in, a_erward a water monster, laying at that doorway.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "Teal’ (Frog) was in the south in a house of blue fog, and laying, at the doorway, Tiel’in, who is afterward a water monster.",  
+                                            check: true, 
+                
+                                        } 
+                                    ],
+                                    selectedChoice: '',
+                               
+                                },
+                                {
+                                    id: 44,
+                                    question: 
+                                    "44. Which choice offers an accurate interpretation of the data in the graphs?",  
+                                    choices: [
+                                        {
+                                            opt: 'A',
+                                            id: 1, 
+                                            text:"e number of winter huts was more than double the number of summer shelters in every decade shown in the graph.", 
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'B',
+                                            id:2, 
+                                            text:"The gap between the number of winter huts and summer shelters was largest in number in the decade of the 1900s.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'C',
+                                            id:3, 
+                                            text: "The number of winter huts was greater than the number of summer shelters in every time period measured except for the 1910s.",  
+                                            check: false, 
+                
+                                        },
+                                        {
+                                            opt: 'D',
+                                            id:4, 
+                                            text: "The decline in the number of winter huts was greater from the 1900s to the 1910s than it was from the 1870s to the 1890s.",  
                                             check: true, 
                 
                                         } 
@@ -1356,30 +3784,30 @@ export default class TestScreen extends React.Component {
                                 {
                                     id: 1,
                                     question: 
-                                    "1.1 As presented in the passage, Mr. Kearney is best described as",  
+                                    "1. If the sum of three consecutive integers is 96, which of the following is the smallest one?",  
                                     choices: [
                                         {
                                             opt: 'A',
                                             id: 1, 
-                                            text:"independent and strong willed.", 
+                                            text:"31", 
                                             check: false, 
                                         },
                                         {
                                             opt: 'B',
                                             id:2, 
-                                            text:"paternal and affectionate.",  
+                                            text:"32",  
                                             check:false, 
                                         },
                                         {
                                             opt: 'C',
                                             id:3, 
-                                            text: "serious and family oriented.",  
+                                            text: "33",  
                                             check:true, 
                                         },
                                         {
                                             opt: 'D',
                                             id:4, 
-                                            text: "boring and simple minded.",  
+                                            text: "34",  
                                             check:false, 
                                         } 
                                     ],
@@ -1389,7 +3817,7 @@ export default class TestScreen extends React.Component {
                                 {
                                     id: 2,
                                     question: 
-                                    "1.2 As presented in the passage, Mr. Kearney is best described as",  
+                                    "2. What is the solution to the equation ",  
                                     choices: [
                                         {
                                             opt: 'A',
@@ -1698,6 +4126,15 @@ export default class TestScreen extends React.Component {
         }     
    
     }
+    displayUnderline(word) {
+            return {
+        __html: `${word}`
+        }; 
+    }
+    
+    createMarkup(content) {
+        return {__html: content};
+      }
 
     displayPassage() {
         const {
@@ -1705,7 +4142,7 @@ export default class TestScreen extends React.Component {
             sections, 
         } = this.state; 
         const section = sections[currentSection]; 
-        return section.passage.map((para) => <div> {para.content}</div>); 
+    return section.passage.map((para) => <div dangerouslySetInnerHTML={this.createMarkup(para.content)} />); 
 
     }
     addPic() {
